@@ -1,0 +1,4 @@
+﻿  Test.cpp
+C:\Users\Ars\Desktop\Institute\Institute_2023_4rd_semester\Modern programming languages\LR ARS\Test\Test\Test.cpp(65,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Ars\Desktop\Institute\Institute_2023_4rd_semester\Modern programming languages\LR ARS\Test\Test\Test.cpp(69,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Test.vcxproj -> C:\Users\Ars\Desktop\Institute\Institute_2023_4rd_semester\Modern programming languages\LR ARS\Test\Debug\Test.exe
